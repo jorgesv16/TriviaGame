@@ -6,12 +6,7 @@
 	margin-right: 10%;
 }
 
-/*h1 {
-	text-align: center;
-}*/
-
 .first-row, .second-row, .third-row {
-	text-align: center;
 	height: 50px;
 	width: 80%;
 	margin-left: 10%;
@@ -25,7 +20,21 @@
 	margin-right: 10%;
 }
 
-.option {
+.option, h1,  {
 	text-align: center;
 	margin: 5px 0 5px 0;
+}
+
+.option, .begin {
+	background-color: #4aaaa5;
+	margin: 10px;
+	width: 180px;
+}
+
+.option:hover { 
+    opacity: 0.5;
+}
+
+.begin:hover {
+	opacity: 0.5;
 }
