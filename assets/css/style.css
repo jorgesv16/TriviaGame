@@ -1,0 +1,31 @@
+.wrapper {
+	background-color: grey;
+	height: 500px;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+/*h1 {
+	text-align: center;
+}*/
+
+.first-row, .second-row, .third-row {
+	text-align: center;
+	height: 50px;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.answers-box {
+	height: 150px;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.option {
+	text-align: center;
+	margin: 5px 0 5px 0;
+}
